@@ -3,7 +3,7 @@
 int main(int argc, char **argv)
 {
     printf("Hello world!\n");
-    printf("My name is Viktorya\n");
-    printf("I am 18 years old\n");
+    printf("My name is Marina\n");
+    printf("I am 17 years old\n");
     return 1;
 }
